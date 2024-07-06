@@ -15,3 +15,5 @@ else
         do
             open Safari.app
         done
+    fi
+fi
